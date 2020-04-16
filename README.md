@@ -5,7 +5,7 @@ In this project, two ROS packages are inside catkin_ws/src: the drive_bot and th
 
 1. drive_bot:
 
-My_robot ROS package to hold the robot, the white ball, and the world.
+My_robot ROS package holds the robot, the white ball, and the world.
 Design a differential drive robot with the Unified Robot Description Format. 
 Add two sensors to your robot: a lidar and a camera. 
 Add Gazebo plugins for your robot’s differential drive, lidar, and camera. 
